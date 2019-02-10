@@ -1,0 +1,3 @@
+[submodule "SpotiApp"]
+	path = SpotiApp
+	url = https://github.com/potche/SpotiApp.git
